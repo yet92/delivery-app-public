@@ -20,6 +20,10 @@ Comment NODE_ENV variable.
 
 `npm i`
 
+`npx prisma generate`
+
+`npx prisma db push`
+
 `npm run dev`
 
 ### Client
